@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eggplant Leaf</string>
+    <string name="Cercospora"> Plant Samrat variety is resistant to both the leaf spots\nDiseases can be managed by growing resistant varieties.\n\nSpraying 1 per cent Bordeaux mixture or 2g Copper oxychloride or 2.5 g Zineb per litre of water effectively controls leaf spots.</string>
+    <string name="Flea_beetle"> Neem oil: Neem oil is a natural insecticide that is derived from the neem tree. It works by disrupting the growth and development of insects and can be effective against flea beetles.\n\nCarbaryl: Carbaryl is a synthetic insecticide that is commonly used to control flea beetles on eggplant. It works by affecting the nervous system of insects, causing paralysis and death.
+    </string>
+</resources>
